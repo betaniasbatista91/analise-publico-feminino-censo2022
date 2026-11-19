@@ -140,6 +140,9 @@ Obrigada por visitar meu projeto!DME.md.txt…]()
 
 [README.md.txt](https://github.com/user-attachments/files/35059002/README.md.txt)
 
+[Projeto_Be_Análise_de_Mulheres.zip](https://github.com/user-attachments/files/35060034/Projeto_Be_Analise_de_Mulheres.zip)
+
+
 
 
 
