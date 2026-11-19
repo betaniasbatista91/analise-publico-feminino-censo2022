@@ -1,3 +1,6 @@
+[Vídeo projeto Power Bi.zip](https://github.com/user-attachments/files/35062002/Video.projeto.Power.Bi.zip)
+
+
 <img width="1155" height="629" alt="image" src="https://github.com/user-attachments/assets/bb5deb89-6f59-451a-a792-e8c47e058a83" />
 
 Este projeto representa meu primeiro passo na área de Ciência de Dados e foi uma oportunidade de colocar em prática conhecimentos de tratamento de dados, análise exploratória, criação de medidas em DAX e visualização no Power BI.
@@ -142,6 +145,9 @@ Obrigada por visitar meu projeto!DME.md.txt…]()
 
 [README.md.txt](https://github.com/user-attachments/files/35059002/README.md.txt)
 
+Vídeo do Projeto
+[Vídeo projeto Power Bi.zip](https://github.com/user-attachments/files/35062010/Video.projeto.Power.Bi.zip)
+Arquivo Power BI
 [Projeto_Be_Análise_de_Mulheres.zip](https://github.com/user-attachments/files/35060034/Projeto_Be_Analise_de_Mulheres.zip)
 
 
