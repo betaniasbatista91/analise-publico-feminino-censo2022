@@ -126,17 +126,17 @@ Este é o início de uma jornada de aprendizado, desenvolvimento e construção 
 Obrigada por visitar meu projeto!DME.md.txt…]()
 
 
-<img width="6150" height="3525" alt="Projeto1 (1)" src="https://github.com/user-attachments/assets/c27efa0c-5a26-44a0-9f1d-cbb7f906c916" />
+<img width="1166" height="660" alt="image" src="https://github.com/user-attachments/assets/e283a9c1-c3ab-4135-9150-754d7712ea1e" />
 <img width="6150" height="3525" alt="Projeto1 (2)" src="https://github.com/user-attachments/assets/be332ed7-6774-449a-bc0d-4bbc5b24f483" />
-<img width="12150" height="6900" alt="Projeto1 (3)" src="https://github.com/user-attachments/assets/ca7e4d24-70eb-4fe5-ad3b-16f196613970" />
-
+<img width="1164" height="656" alt="image" src="https://github.com/user-attachments/assets/e45bf4bb-7a25-49a4-8054-fd765cf3fadf" />
 <img width="12150" height="6900" alt="Projeto1 (4)" src="https://github.com/user-attachments/assets/b3c6414d-b8fd-4ad8-a6bf-94c090919010" />
 <img width="6150" height="3525" alt="Projeto1 (5)" src="https://github.com/user-attachments/assets/dcf5d5d1-1241-4f40-9d91-8856620c25e9" />
 <img width="12150" height="6900" alt="Projeto1 (6)" src="https://github.com/user-attachments/assets/3c269be2-d12f-4e88-9321-3fa5b3653291" />
 <img width="6150" height="3525" alt="Projeto1 (7)" src="https://github.com/user-attachments/assets/3f3589b6-d6df-4d76-93f4-305469b03151" />
 <img width="6150" height="3525" alt="Projeto1 (8)" src="https://github.com/user-attachments/assets/9b479742-45b1-42a8-a032-00a02741a6a9" />
 <img width="6150" height="3525" alt="Projeto1 (9)" src="https://github.com/user-attachments/assets/7f937a71-536e-4cb0-98e4-7f21d7f986d5" />
-<img width="6150" height="3525" alt="Projeto1 (10)" src="https://github.com/user-attachments/assets/b0031c7a-8ed6-4771-84be-6acb774d781c" />
+<img width="1163" height="658" alt="image" src="https://github.com/user-attachments/assets/668f47a2-42ed-41c7-8322-8543b504a91f" />
+
 [Tabela_17_Idade_e_caracteristicas_do_territorio.xlsx](https://github.com/user-attachments/files/35058825/Tabela_17_Idade_e_caracteristicas_do_territorio.xlsx)
 [Tabela_9514_BE.xlsx](https://github.com/user-attachments/files/35058837/Tabela_9514_BE.xlsx)
 
